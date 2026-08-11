@@ -1,116 +1,127 @@
-<h1 align="center">Hi, I'm Aamir Nasoordeen 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AamirMNAamir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=C8A96E&center=true&vCenter=true&width=650&lines=Computer+Engineering+Undergraduate;University+of+Peradeniya;System-Level+Programmer+%7C+Linux+Enthusiast;Interested+in+Virtualization%2C+DevOps+%26+LLMs" alt="Typing SVG" />
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f161f,100:c8a96e&height=200&section=header&text=Aamir%20Nasoordeen&fontSize=42&fontColor=e6e2d8&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%40%20University%20of%20Peradeniya&descAlignY=58&descSize=18&descColor=b8b4aa" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aamir-nasoordeen-316023348"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aamirnasoordeen@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AamirMNAamir"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/in/aamir-nasoordeen-316023348"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aamirnasoordeen@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AamirMNAamir"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
----
+<img src="https://komarev.com/ghpvc/?username=AamirMNAamir&style=for-the-badge&color=c8a96e&label=PROFILE+VIEWS" />
 
-### 🚀 About Me
+</div>
 
-```python
-class Aamir:
-    def __init__(self):
-        self.name = "Aamir Nasoordeen"
-        self.degree = "B.Sc. Eng. (Computer Engineering)"
-        self.university = "University of Peradeniya"
-        self.status = "Undergraduate, 2024 – Present"
-        self.stack = ["C", "Python", "Java", "JavaScript", "ARM Assembly"]
-        self.interests = [
-            "System-level programming",
-            "Embedded systems",
-            "Virtualization & DevOps",
-            "Large Language Models"
-        ]
-        self.roles = [
-            "Casual Instructor, Dept. of Computer Engineering (UoP)",
-            "Welfare Service Secretary, MESWA"
-        ]
+<br>
 
-    def motto(self):
-        return "Curious engineer, system-level thinker."
+## 📍 Overview
 
+Computer Engineering undergraduate at the **University of Peradeniya**, focused on system-level programming, embedded systems, and virtualization/DevOps. Currently a Casual Instructor for two undergraduate courses and Welfare Service Secretary at MESWA.
 
-me = Aamir()
-print(me.motto())
-```
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
+### 🧠 Focus Areas
+- System-level & low-level programming
+- Embedded systems (ARM Assembly)
+- Virtualization & DevOps
+- Large Language Models
 
-### 🛠️ Tech Stack
+</td>
+<td valign="top" width="50%">
 
-**Languages**
+### 🎯 Currently
+- Instructing **CO1010** & **EE1810** at UoP
+- Serving as Welfare Service Secretary, MESWA
+- Building full-stack systems (React/Node/Spring)
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ARM](https://img.shields.io/badge/-ARM%20Assembly-2496ED?style=flat-square&logo=arm&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Web**
+<br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+## 🧰 Stack
 
-**Systems, Data & Tools**
+<div align="center">
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,py,java,js,html,css,react,nodejs,spring,mysql,linux,git,github,matlab" />
 
----
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AamirMNAamir&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamirMNAamir&layout=compact&hide_border=true" />
-</p>
+## 📊 Metrics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AamirMNAamir&hide_border=true" alt="streak stats" />
-</p>
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AamirMNAamir&show_icons=true&theme=dark&hide_border=true&bg_color=0f161f&title_color=c8a96e&icon_color=c8a96e&text_color=b8b4aa" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AamirMNAamir&layout=compact&theme=dark&hide_border=true&bg_color=0f161f&title_color=c8a96e&text_color=b8b4aa" />
+</div>
 
----
+<div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AamirMNAamir&theme=react-dark&bg_color=0f161f&color=c8a96e&line=c8a96e&point=e6e2d8&hide_border=true" />
+</div>
 
-### 🚧 Featured Projects
+<div align="center">
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=AamirMNAamir&theme=darkhub&no-frame=true&row=1&margin-w=15&column=6" />
+</div>
 
-| Project | Stack | Highlights |
+<br>
+
+## 🚧 Projects
+
+<details open>
+<summary><b>libtiny3d — 3D Software Renderer</b> · C · Linear Algebra · Graphics</summary>
+<br>
+3D renderer built from scratch in pure C — matrix transformations, clipping pipelines, and lighting, with no external graphics APIs.
+<br><br>
+<a href="https://github.com/AamirMNAamir/libtiny3d_-Software_Renderer">→ View Repository</a>
+</details>
+
+<details>
+<summary><b>VisionBoard AI</b> · Python · OpenCV · MediaPipe</summary>
+<br>
+Real-time virtual whiteboard using computer-vision hand tracking — gesture recognition, in-air drawing, color/eraser tools, and image saving on a modular architecture.
+<br><br>
+<a href="https://github.com/AamirMNAamir/VisionBoard-AI">→ View Repository</a>
+</details>
+
+<details>
+<summary><b>FMDMS — Forensic Medicine Department Management System</b> · React · Node.js/Express · MySQL</summary>
+<br>
+Full-stack case management platform for a university department — role-based access across 8 staff roles, an 18-table relational schema, JWT + bcrypt auth with lockout, and a full audit trail.
+<br><br>
+<a href="https://github.com/AamirMNAamir/forensic-medicine-management-system">→ View Repository</a>
+</details>
+
+<details>
+<summary><b>Web-Based PAR Index System</b> · Spring Boot · React · Three.js</summary>
+<br>
+Platform for orthodontists to upload, visualize, and analyze 3D dental models (Upper, Lower, Buccal) and auto-calculate PAR index scores with secure case management.
+<br><br>
+<a href="https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System">→ View Repository</a>
+</details>
+
+<details>
+<summary><b>ARM32 Mini Shell</b> · ARM Assembly · Linux · OS</summary>
+<br>
+Command-line shell exploring system calls and process control natively on ARM architecture, built without C wrappers.
+<br><br>
+<i>Repo link pending</i>
+</details>
+
+<br>
+
+## 💼 Experience
+
+| Role | Organization | Period |
 |---|---|---|
-| **[libtiny3d — 3D Software Renderer](https://github.com/AamirMNAamir/libtiny3d_-Software_Renderer)** | C · Linear Algebra · Graphics | 3D renderer built from scratch — matrix transformations, clipping pipelines, and lighting, with no external graphics APIs |
-| **[VisionBoard AI](https://github.com/AamirMNAamir/VisionBoard-AI)** | Python · OpenCV · MediaPipe | Real-time virtual whiteboard using computer-vision hand tracking; gesture recognition, drawing, color/eraser tools, and image saving |
-| **[FMDMS](https://github.com/AamirMNAamir/forensic-medicine-management-system)** | React · Node.js/Express · MySQL | Case management system for a university forensic medicine department — role-based access across 8 roles, an 18-table schema, JWT + bcrypt auth with lockout, full audit trail |
-| **[Web-Based PAR Index System](https://github.com/cepdnaclk/e22-co2060-Web_Based_PAR_Index_System)** | Spring Boot · React · Three.js | Platform for orthodontists to upload, visualize, and analyze 3D dental models and auto-calculate PAR index scores |
-| **ARM32 Mini Shell** | ARM Assembly · Linux · OS | Command-line shell exploring system calls and process control natively on ARM, with no C wrappers |
+| Casual Instructor — CO1010, EE1810 | Dept. of Computer Engineering, University of Peradeniya | Dec 2025 – Present |
+| Welfare Service Secretary | MESWA, University of Peradeniya | 2026 |
+| Editor | MESWA, University of Peradeniya | 2025 |
 
----
+<br>
 
-### 💼 Experience
-
-**Casual Instructor** — Dept. of Computer Engineering, University of Peradeniya *(Dec 2025 – Present)*
-- Instructing **CO1010 Programming for Engineering** (E24 batch)
-- Instructing **EE1810 Electronics** since April 2026 (E24 batch)
-
-**Executive Committee Member** — MESWA, University of Peradeniya *(2025 – 2026)*
-- Welfare Service Secretary (2026)
-- Editor (2025)
-
----
-
-### 🎓 Education
+## 🎓 Education
 
 | Qualification | Institution | Year | Result |
 |---|---|---|---|
@@ -118,22 +129,26 @@ print(me.motto())
 | G.C.E. Advanced Level | Kekunagolla National School | 2022 | 3A, Z-Score 1.9782 |
 | G.C.E. Ordinary Level | N/K Abukkagama Muslim Maha Vidyalaya | 2019 | 9A |
 
----
+<br>
 
-### 📚 Currently Exploring
+## 🐍 Contribution Graph
 
-- 🖥️ Virtualization & DevOps practices
-- 🧠 Large Language Models
-- 🔧 Embedded systems & low-level programming
+<div align="center">
+<img src="https://raw.githubusercontent.com/AamirMNAamir/AamirMNAamir/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
----
+<sub>Requires a one-time GitHub Actions setup — see the guide notes below.</sub>
 
-### 📫 Reach Me
+<br>
 
-<p align="center">
-  <a href="mailto:aamirnasoordeen@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/aamir-nasoordeen-316023348"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AamirMNAamir"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center"><sub>⭐ From <a href="https://github.com/AamirMNAamir">AamirMNAamir</a></sub></p>
+### 📫 Let's Connect
+
+<a href="mailto:aamirnasoordeen@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aamir-nasoordeen-316023348"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/AamirMNAamir"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c8a96e,100:0f161f&height=100&section=footer" />
+
+</div>
